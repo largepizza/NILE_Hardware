@@ -1,5 +1,5 @@
-#ifndef i2c_temp
-#define i2c_temp
+#ifndef temp_i2c
+#define temp_i2c
 
 #include <Arduino.h>
 
